@@ -1,0 +1,2 @@
+# newTemplateHapi
+newTemplateHapi
